@@ -1,3 +1,5 @@
+![logo](https://github.com/aziz-prasetyo/aziz-prasetyo/blob/main/github_banner.png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Aziz Prasetyo</h1>
 <h3 align="center">A passionate Software Engineer from Jakarta, Indonesia</h3>
 <br />
