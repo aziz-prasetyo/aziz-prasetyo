@@ -16,13 +16,13 @@
 
 - ☘️ I’m currently learning **TypeScript, Next.js, Node.js, and Docker**
 
-- 👨‍💻 All of my projects are available at [`Portfolio 🔗`](https://bit.ly/Hjah65X7saKj)
+- 👨‍💻 All of my projects are available at [my portfolio](https://bit.ly/Hjah65X7saKj)
 
 - 💬 Ask me about **everything, without exception, the mysteries of the universe 🌌🪐**
 
 - 📫 How to reach me? **muhazizpras@gmail.com**
 
-- 📄 Know about my experiences [`Resume 🔗`](https://bit.ly/Hjah65X7saKj)
+- 📄 Know about my experiences: [resume](https://bit.ly/Hjah65X7saKj)
 
 - ⚡ Fun fact: **Sense of humor shines through, a multi-talented individual, enjoys playing badminton, and someone with a smile that lights up the room 💻🎸🏸😊**
 
@@ -33,14 +33,6 @@ Welcome to the GitHub repository of Prasetyo, a seasoned programmer with two yea
 ### About
 
 Prasetyo is not just a programmer; he is a passionate individual who thrives in the dynamic realm of technology. With a solid foundation built over two years of hands-on coding, Prasetyo has honed his skills in various programming languages and development tools.
-
-### Academic Pursuits
-
-As a dedicated student at Universitas Pembangunan Nasional Veteran Jakarta, Prasetyo seamlessly integrates theoretical knowledge with practical expertise. His commitment to academic excellence is reflected in his ability to balance coursework and real-world coding challenges.
-
-### Tech Stack
-
-Prasetyo's journey in the tech world has equipped him with a diverse set of skills. From mastering the intricacies of popular programming languages to navigating the complexities of software development, Prasetyo is a versatile programmer with a keen eye for detail.
 
 ### Connect with Prasetyo
 
