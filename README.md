@@ -68,9 +68,3 @@ Happy coding! 💻✨
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aziz-prasetyo&show_icons=true&locale=en" alt="aziz-prasetyo" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-prasetyo&" alt="aziz-prasetyo" /></p>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=500&height=70&duration=5000&pause=1000&lines=Thanks+for+visiting!;I'm+always+down+to+collab+😊" />
-</h1>
-
-<br/>
